@@ -14,8 +14,8 @@ You should be familiar with PostgreSQL and have the psql shell inside your local
 3. Run the project with the __main__.py
 
 ### How to use
-There are 4 roles, director, artist, sponsor and audience.
-The director is the one who controls everything.
-To access the directory role, the password is '123'.
-To access others roles, the director should log into the app and create an account for them.
-Except for Audience that can be register by themselves.
+There are 4 roles, director, artist, sponsor and audience. <br>
+The director is the one who controls everything. <br>
+To access the directory role, the password is '123'. <br>
+To access others roles, the director should log into the app and create an account for them. <br>
+Except for Audience that can be register by themselves. <br>
