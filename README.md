@@ -15,7 +15,7 @@ You should be familiar with PostgreSQL and have the psql shell inside your local
 
 ### How to use
 There are 4 roles, director, artist, sponsor and audience.
-The director is the one who control everything.
+The director is the one who controls everything.
 To access the directory role, the password is '123'.
 To access others roles, the director should log into the app and create an account for them.
 Except for Audience that can be register by themselves.
