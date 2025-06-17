@@ -12,3 +12,10 @@ You should be familiar with PostgreSQL and have the psql shell inside your local
 1. Open psql shell and run the file setup_db.sql
 2. Install Python libraries in the requirements.txt
 3. Run the project with the __main__.py
+
+### How to use
+There are 4 roles, director, artist, sponsor and audience.
+The director is the one who control everything.
+To access the directory role, the password is '123'.
+To access others roles, the director should log into the app and create an account for them.
+Except for Audience that can be register by themselves.
